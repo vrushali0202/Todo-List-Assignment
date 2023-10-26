@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Vrushali Nilesh Kolapkar",
+      "email": "xyz@gmail.com",
+      "password": "122345",
+      "id": 1
+    },
+    {
+      "name": "Vrushali Nilesh Kolapkar",
+      "email": "xyz@gmail.com",
+      "password": "122345",
+      "id": 2
+    }
+  ]
+}
